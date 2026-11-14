@@ -6,7 +6,7 @@ I make things
 
 currently working on nothing
 
-want to learn programming languages and tools people actually use (like C++ or GTK)
+want to learn programming languages people actually use (like C++)
 
 
 ---
